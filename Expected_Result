@@ -1,0 +1,26 @@
+=== Results of Analysis ===
+Total reads: 351330
+Mapped reads: 350015
+Unmapped reads: 1315
+Paired reads: 175665
+Partially mapped reads: 39757
+
+=== Pair Analysis ===
+Pairs with one mapped and one unmapped: 15
+Pairs with one mapped and one partially mapped: 19925
+
+Reads by chromosome:
+  Reference: 350015 reads
+
+MAPQ score distribution:
+  MAPQ [0-9]: 35068 reads
+  MAPQ [10-19]: 233 reads
+  MAPQ [20-29]: 5662 reads
+  MAPQ [30-39]: 464 reads
+  MAPQ [40-49]: 5249 reads
+  MAPQ [50-59]: 3545 reads
+  MAPQ [60-69]: 301109 reads
+
+CIGAR alignment types:
+  simple_match: 350015 reads
+  non_match: 1315 reads

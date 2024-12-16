@@ -93,6 +93,7 @@ Contributions are welcome! Please follow these steps:
 
 
 ## Licence
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 **AUTHOR**:
 ANIA SAIDANI - Project carried out as part of the UE System (Master's in Bioinformatics)

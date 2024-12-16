@@ -61,6 +61,7 @@ Step 2: Analyze the SAM file
 python3 script_sam_analysis.py <file.sam>
 ```
 ## Example Output
+
 ```yaml
 === Results of Analysis ===
 Total reads: 351330
@@ -76,19 +77,22 @@ CIGAR alignment types:
 A histogram file (mapq_distribution.png) will also be generated in the current directory.
 
 ## Contribution
+
 Contributions are welcome! Please follow these steps:
 
-    1. Fork this repository.
-    2. Create a new branch:
+1. Fork this repository.
+2. Create a new branch:
+
     ```bash
-git checkout -b feature/new-feature
-```
+    git checkout -b feature/new-feature
+    ```
+
 3. Make your changes and test them.
 4. Submit a Pull Request with a clear description.
 
 
 
-##Licence
+## Licence
 
 **AUTHOR**:
 ANIA SAIDANI - Project carried out as part of the UE System (Master's in Bioinformatics)

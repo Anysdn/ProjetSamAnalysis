@@ -38,7 +38,7 @@ Clone this Git repository and navigate to the directory:
 
 ```bash
 git clone https://github.com/Anysdn/ProjetSamAnalysis.git
-cd ProjetSAMAnalyzer
+
 ```
 
 Ensure Python 3 and the dependencies are installed:

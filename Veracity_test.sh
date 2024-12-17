@@ -28,7 +28,7 @@ if ! grep -q "^@" "$file"; then
 fi
 
 # If all checks pass, execute the Python script
-python3 Systeme.py "$file"
+python3 script_sam_analysis.py "$file"
 
 # Display a success message if everything is validated
 if [ $? -eq 0 ]; then
